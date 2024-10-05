@@ -1,0 +1,1 @@
+# plugins-post-type-archive-mapping
